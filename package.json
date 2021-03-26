@@ -1,0 +1,6 @@
+{
+    "script":{
+        "start":"node hellonode.js"
+        
+    }
+}
