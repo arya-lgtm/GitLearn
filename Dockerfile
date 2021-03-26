@@ -3,3 +3,4 @@ WORKDIR /app
 ADD . /app
 EXPOSE 5505
 CMD npm start
+
